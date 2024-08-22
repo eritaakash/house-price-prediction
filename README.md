@@ -36,12 +36,12 @@ Here is the report of different metrics:
 - Number of Instances: 14619
 
 - Number of Features:
-- - 23 [Before Preprocessing]
-- - 16 [After Preprocessing]
+  - 23 [Before Preprocessing]
+  - 16 [After Preprocessing]
 
 - Target Variable: `price`
-- - 100k units [Before Preprocessing]
-- - 1k units [After Preprocessing]
+  - 100k units [Before Preprocessing]
+  - 1k units [After Preprocessing]
 
 
 ### Conclusion
